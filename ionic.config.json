@@ -1,0 +1,7 @@
+{
+  "name": "chatjsside",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
